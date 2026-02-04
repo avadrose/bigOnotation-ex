@@ -80,7 +80,7 @@ function vowelCount(str) {
 
   return vowelCount;
 }
-Time Complexity: O(n) **max number of keys is 10
+Time Complexity: O(n) **max keys is 10, space is O(1), time is still O(n)
 
 
 
